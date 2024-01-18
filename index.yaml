@@ -10,6 +10,6 @@ entries:
     name: pgo
     type: application
     urls:
-    - https://github.com/youraccount/yourrepo/pgo-5.5.0.tgz
+    - https://oliverlucas85.github.io/helm-repo/pgo-5.5.0.tgz
     version: 5.5.0
 generated: "2024-01-18T18:37:56.463415635Z"
